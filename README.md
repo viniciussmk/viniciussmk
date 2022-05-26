@@ -2,7 +2,7 @@
 
 - 📚 Atualmente estou estudando C# e C++   
 - 📧 E-mail : viniciusgomes49@hotmail.com
-- 💬 Linkedin : linkedin.com/in/vinicius-gomes452baa19a
+- 💬 Linkedin : linkedin.com/in/vinicius-gomes-452baa19a
 - 💻 Em busca de novos desafios !!!
 
 
