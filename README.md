@@ -1,6 +1,6 @@
 ## Olá, eu sou o Vinicius !!!
 
-- 📚 Atualmente estou estudando C# e C++   
+- 📚 Atualmente estou cursando JavaScript    
 - 📧 E-mail : viniciusgomes49@hotmail.com
 - 💬 Linkedin : linkedin.com/in/vinicius-gomes-452baa19a
 - 💻 Em busca de novos desafios !!!
