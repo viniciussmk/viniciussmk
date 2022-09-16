@@ -1,6 +1,6 @@
 ## Olá, eu sou o Vinicius !!!
 
-- 📚 Atualmente estou cursando JavaScript    
+- 📚 Atualmente estou trabalhando na área de Desenvolvimento de sistemas (DEV) na empresa QSaúde      
 - 📧 E-mail : viniciusgomes49@hotmail.com
 - 💬 Linkedin : linkedin.com/in/vinicius-gomes-452baa19a
 - 💻 Em busca de novos desafios !!!
