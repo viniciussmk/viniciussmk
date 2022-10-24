@@ -1,9 +1,9 @@
-## Olá, eu sou o Vinicius !!!
+## Hello, I'm Vinicius !
 
-- 📚 Atualmente estou trabalhando na área de Desenvolvimento de sistemas (DEV) na empresa QSaúde      
+- 📚 I am Junior Developer at QSaúde      
 - 📧 E-mail : viniciusgomes49@hotmail.com
 - 💬 Linkedin : linkedin.com/in/vinicius-gomes-452baa19a
-- 💻 Em busca de novos desafios !!!
+- 💻 Looking for new challenges !
 
 
 <div align="center">
