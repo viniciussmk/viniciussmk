@@ -1,6 +1,6 @@
 ## Hello, I'm Vinicius !
 
-- 📚 I am Junior Developer at Vinci Partners      
+- 📚 I am Pleno Developer     
 - 📧 E-mail : viniciusgomes49@hotmail.com
 - 💬 Linkedin : linkedin.com/in/vinicius-gomes-452baa19a
 - 💻 Looking for new challenges !
